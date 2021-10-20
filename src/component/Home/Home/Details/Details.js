@@ -12,7 +12,7 @@ const Details = () => {
     },[])
     return (
         <Container>
-            <h1>This is your id no : {Id}</h1>
+            <h1> Id no : {Id}</h1>
             <div className="row">
                 <div className="col-md-4">
                     <img src={docDetails.img} alt="" className="w-100" />
