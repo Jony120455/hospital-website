@@ -1,0 +1,43 @@
+[
+    {
+        "Id": 1,
+        "name": "ULTRASONOGRAPHY",
+        "call": " +8801713228218",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD1JQ2qENRzuQgOPoqOEZFOL05JT0EDpm8rg&usqp=CAU"
+    },
+    {
+        "Id": 2,
+        "name": "ECG",
+        "call": " +8801713228218",
+        "img": "https://static.wixstatic.com/media/3bb9c4_8e0955fb299f47fb907e5c312c4649e2~mv2.jpg/v1/fill/w_640,h_400,al_c,q_80/3bb9c4_8e0955fb299f47fb907e5c312c4649e2~mv2.webp"
+    },
+    {
+        "Id": 3,
+        "name": "CT SCANNER",
+        "time": "10:00-2:00pm",
+        "call": " +8801713228218",
+        "img": "https://www.blockimaging.com/hubfs/optima-520-ct-scanner.jpg"
+    },
+    {
+        "Id": 4,
+        "name": "Cancer Care",
+        "time": "10:00-2:00pm",
+        "call": " +8801713228218",
+        "img": "https://www.iaea.org/sites/default/files/styles/original_image_size/public/radiation-therapy-1140x640.jpg?itok=e2fl9vxs"
+    },
+    {
+        "Id": 5,
+        "name": "Cardiology",
+        "time": "10:00-2:00pm",
+        "call": " +8801713228218",
+        "img": "https://www.fortishealthcare.com/speciality_banner/mobile/Non-Invasive-Cardiology.jpg"
+    },
+    {
+        "Id": 5,
+        "name": "Oxygen Therapy",
+        "time": "10:00-2:00pm",
+        "call": " +8801713228218",
+        "img": "https://media.istockphoto.com/photos/noninvasive-ventilation-face-mask-on-background-medical-ventilator-in-picture-id1220273396?k=20&m=1220273396&s=612x612&w=0&h=tViG9SWYx0Q-pUyWe6Y7ZYoN2lCWsiSFfEw8TjNb5TE="
+    }
+   
+]
